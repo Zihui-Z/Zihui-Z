@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zihui Zhuang
+# 👋 Hi, I’m Zihui(Zoe)Zhuang
 
 ## About Me
 - 🌟 **Passionate about:** Data science, machine learning, and leveraging technology to solve real-world problems.
